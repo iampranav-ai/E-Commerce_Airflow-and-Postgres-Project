@@ -39,13 +39,15 @@ To start the project:
 
 ## Project Screenshots
 
+Docker
+![image](https://github.com/user-attachments/assets/86ba17b4-d9ff-4308-8557-b19a91b7a86c)
+
+Airflow DAG
 ![image](https://github.com/user-attachments/assets/0ec556a6-9edb-4017-8def-a65f443009a6)
 
-
+pgAdmin Database
 ![image](https://github.com/user-attachments/assets/7e3dea8b-cd7f-4443-b50b-4c9628f5e730)
 
-
-[Insert screenshot of generated data in PostgreSQL here]
 
 ## Components Used
 
