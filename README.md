@@ -41,7 +41,8 @@ To start the project:
 
 [Insert screenshot of Airflow DAG here]
 
-[Insert screenshot of pgAdmin interface here]
+![image](https://github.com/user-attachments/assets/7e3dea8b-cd7f-4443-b50b-4c9628f5e730)
+
 
 [Insert screenshot of generated data in PostgreSQL here]
 
