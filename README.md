@@ -39,13 +39,16 @@ To start the project:
 
 ## Project Screenshots
 
-Docker
+#### Docker
 ![image](https://github.com/user-attachments/assets/86ba17b4-d9ff-4308-8557-b19a91b7a86c)
 
-Airflow DAG
+#### Airflow DAG (generate_ecommerce_data)
+![image](https://github.com/user-attachments/assets/22629d33-2357-4863-971e-722bc3a3aacd)
+
+#### Airflow DAG run
 ![image](https://github.com/user-attachments/assets/0ec556a6-9edb-4017-8def-a65f443009a6)
 
-pgAdmin Database
+#### pgAdmin Database (e_commerce_table, 1 Million Rows)
 ![image](https://github.com/user-attachments/assets/7e3dea8b-cd7f-4443-b50b-4c9628f5e730)
 
 
