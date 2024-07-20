@@ -63,5 +63,3 @@ pgAdmin Database
 - Implement data analysis tasks using the generated e-commerce data
 - Create visualizations using tools like Grafana or Superset
 - Extend the data model to include more e-commerce-specific information
-
-Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or feature requests.
