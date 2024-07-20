@@ -39,7 +39,8 @@ To start the project:
 
 ## Project Screenshots
 
-[Insert screenshot of Airflow DAG here]
+![image](https://github.com/user-attachments/assets/0ec556a6-9edb-4017-8def-a65f443009a6)
+
 
 ![image](https://github.com/user-attachments/assets/7e3dea8b-cd7f-4443-b50b-4c9628f5e730)
 
